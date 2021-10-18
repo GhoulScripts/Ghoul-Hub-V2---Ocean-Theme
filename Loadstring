@@ -1592,3 +1592,4 @@ CreditsSection:NewKeybind("Toggle UI", "Toggles the UI with RightShift.", Enum.K
 Library:ToggleUI()
 end)
 end
+
