@@ -1591,3 +1591,4 @@ CreditsSection:NewLabel("Please to showcase the script DM Ghoul Scripts")
 CreditsSection:NewKeybind("Toggle UI", "Toggles the UI with RightShift.", Enum.KeyCode.RightShift, function()
 Library:ToggleUI()
 end)
+end
